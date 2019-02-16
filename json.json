@@ -1,0 +1,10 @@
+{
+  "Mark": "Ferarri",
+  "AmountGears": 6,
+  "MaxSpeed": 480,
+  "Engine": {
+    "Brand": "V12",
+    "AmountValves": 24
+  }
+
+}

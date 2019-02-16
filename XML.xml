@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+
+<car>
+  <mark>Lada Niva</mark>
+  <amountGears>5</amountGears>
+  <maxSpeed>160</maxSpeed>
+  <engine Brand="VAZ" amountValves="4"/>
+</car>
